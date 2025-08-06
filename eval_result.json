@@ -90,7 +90,7 @@
     },
     {
       "name": "exercise22",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise23",
@@ -139,8 +139,8 @@
   ],
   "statistics": {
     "total_exercations": 34,
-    "total_succeeds": 33,
-    "total_failures": 1,
+    "total_succeeds": 34,
+    "total_failures": 0,
     "total_time": 11
   }
 }
